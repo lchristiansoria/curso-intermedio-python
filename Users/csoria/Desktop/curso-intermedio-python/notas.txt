@@ -1,0 +1,1 @@
+Un GENERADOR es una funcion que guarda un estado (yield)
